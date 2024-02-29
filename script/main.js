@@ -1,6 +1,5 @@
- ar
- pantalla = document.querySelector('canvas');
-        var pincel = pantalla.getContext('2d');
+ var pantalla = document.querySelector('canvas');
+ var pincel = pantalla.getContext('2d');
 
         var colores = ["white","black","Yellow",
                         "blue","red","orange",
